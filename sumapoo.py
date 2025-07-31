@@ -27,4 +27,5 @@ if __name__ == "__main__":
         print(f"Resultado de la suma con 2: {sumarealizada}")
     except ValueError:
         print("Por favor ingresa un número válido.")
+        print("linea final.")
     
